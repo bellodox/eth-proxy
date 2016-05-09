@@ -1,1 +1,1 @@
-./ether-proxy
+web: ./ether-proxy
