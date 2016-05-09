@@ -1,1 +1,1 @@
-./ether-proxy config.json
+./ether-proxy
